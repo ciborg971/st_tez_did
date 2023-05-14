@@ -1,0 +1,3 @@
+recursive-include src/st_tez_did/frontend *
+include README.md
+include LICENSE

@@ -1,0 +1,20 @@
+{
+  "template": "https://github.com/blackary/cookiecutter-streamlit-component/",
+  "commit": "c972054b7b0890a1aa1c02e792bedc71c525ea87",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "author_name": "Crylog",
+      "author_email": "yohann.belair@crylog.fr",
+      "project_name": "streamlit-taquito-temple-didkit",
+      "package_name": "st_tez_did",
+      "import_name": "st_tez_did",
+      "description": "Streamlit component to connect to a tezos wallet and more !",
+      "deployment_via_github_actions": "y",
+      "working_with_dataframes": "n",
+      "open_source_license": "MIT license",
+      "_template": "https://github.com/blackary/cookiecutter-streamlit-component/"
+    }
+  },
+  "directory": null
+}
